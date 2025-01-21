@@ -1,0 +1,8 @@
+.personal:hover{
+ border-bottom: 3px solid orangered;
+ border-width: 100%;
+}
+.class:after{
+  border-radius: 10px;
+  font-size: 20px;
+}
